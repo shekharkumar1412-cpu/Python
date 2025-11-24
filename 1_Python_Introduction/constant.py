@@ -1,0 +1,6 @@
+# declare constants 
+PI = 3.14
+GRAVITY = 9.8
+ 
+Vel_sound=330
+
